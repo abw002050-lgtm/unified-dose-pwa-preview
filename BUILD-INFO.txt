@@ -1,0 +1,5 @@
+PWA preview package
+Source: Unified_Dose_local_hardened_candidate_v5.html
+Inline script blocks: 2
+Clinical logic intentionally changed by packaging: no
+Public repository/site changed: no
